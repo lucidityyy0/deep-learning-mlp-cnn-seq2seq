@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Downloaded datasets
+data/
+
+# Model checkpoints
+saved_models/
+
+# Generated PDF reports
+*.pdf
+
+# Executed notebook with embedded outputs
+main_notebook_executed.ipynb
+
+# OS
+.DS_Store

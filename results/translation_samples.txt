@@ -1,0 +1,1003 @@
+BLEU greedy: BLEU = 100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 470 ref_len = 470)
+BLEU beam  : BLEU = 100.00 100.0/100.0/100.0/100.0 (BP = 1.000 ratio = 1.000 hyp_len = 470 ref_len = 470)
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : je parle francais
+REF   : i speak french
+GREEDY: i speak french
+BEAM  : i speak french
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : bonjour
+REF   : hello
+GREEDY: hello
+BEAM  : hello
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : au revoir
+REF   : goodbye
+GREEDY: goodbye
+BEAM  : goodbye
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : il fait beau
+REF   : it is nice
+GREEDY: it is nice
+BEAM  : it is nice
+
+SRC   : ou est la gare
+REF   : where is the station
+GREEDY: where is the station
+BEAM  : where is the station
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je suis etudiant
+REF   : i am a student
+GREEDY: i am a student
+BEAM  : i am a student
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : il dort
+REF   : he sleeps
+GREEDY: he sleeps
+BEAM  : he sleeps
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+
+SRC   : je mange
+REF   : i eat
+GREEDY: i eat
+BEAM  : i eat
+
+SRC   : elle chante
+REF   : she sings
+GREEDY: she sings
+BEAM  : she sings
+
+SRC   : merci beaucoup
+REF   : thank you very much
+GREEDY: thank you very much
+BEAM  : thank you very much
+

@@ -1,0 +1,4 @@
+Cell,Params,Final Train PPL,Final Val PPL,Train Time (s)
+RNN,240795,1.91,1.98,0.8
+LSTM,931995,1.91,2.00,2.2
+GRU,701595,1.91,2.00,1.8

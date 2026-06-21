@@ -1,0 +1,9 @@
+Experiment,Params,Best Test Acc,Train Time (s)
+baseline_lenet,61706,0.8875,207.9
+padding_valid,44426,0.8830,164.2
+stride2,15626,0.8220,157.1
+maxpool,61706,0.8922,224.4
+filters_half,35820,0.8564,175.8
+filters_double,117078,0.8975,261.4
+with_1x1,61748,0.8835,227.4
+mlp_baseline,235146,0.8439,88.4
